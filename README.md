@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Paulsh3rin
+- 👋 Hi, I’m Sherin
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python
 
